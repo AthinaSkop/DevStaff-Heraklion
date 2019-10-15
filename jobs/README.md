@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mobile,Java Developers @ Advantage FSE
+
+Advantage FSE (AFSE) is a leading supplier of Digital banking solutions, Funds Transfers and Payments. Our mission is to provide high-end solutions in the Finance sector by coupling State-of-the-Art Technology & Innovative Business Principles.
+ 
+Advantage continues to grow and following the successful setup of our office in Thessaloniki, we are working towards the opening of an office in Heraklion, Crete  thus, we are looking for Mobile Developers (iOS & Android) and Java Developers for our agile teams.
+ [Please read more and apply here](https://advantage-fse.workable.com/)
+ * PubDate: 15/10/2019
+ 
 ## Front-end Developer (Heraklion or Athens) @ [BestPrice](https://www.bestprice.gr)
 
 BestPrice is looking for a talented Front-end Developer to be part of the engineering team in a fast-paced, dynamic and cross-functional environment to help us build high quality, scalable web and mobile applications.
